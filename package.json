@@ -1,0 +1,20 @@
+{
+  "name": "styl-font-face",
+  "version": "1.0.0",
+  "description": "Font-face mixin for stylus",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dmnsgn/styl-font-face"
+  },
+  "keywords": [
+    "styl",
+    "fontface",
+    "mixin"
+  ],
+  "author": "Damien Seguin <dmnsgn@gmail.com> (http://dmnsgn.co.uk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmnsgn/styl-font-face/issues"
+  },
+  "homepage": "https://github.com/dmnsgn/styl-font-face"
+}

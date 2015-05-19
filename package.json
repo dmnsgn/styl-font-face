@@ -1,6 +1,7 @@
 {
   "name": "styl-font-face",
-  "version": "1.0.0",
+  "main": "_font-face.styl",
+  "version": "1.0.1",
   "description": "Font-face mixin for stylus",
   "repository": {
     "type": "git",

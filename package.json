@@ -1,5 +1,6 @@
 {
   "name": "styl-font-face",
+  "main": "_font-face.styl",
   "version": "1.0.0",
   "description": "Font-face mixin for stylus",
   "repository": {
